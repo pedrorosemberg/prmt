@@ -1,6 +1,5 @@
 # rosemberg.dev
-#### [ROSEMBERG DEV&PPG, INC.](https://pedrorosemberg.com.br)
-## Bem-Vind@s à minha GitHub Page
+###### [PEDRO ROSEMBERG MARKETING E TECNOLOGIA SA](https://pedrorosemberg.com.br)
 
 Neste espaço, você terá acesso a diversos arquivos OpenSource para criar, basear seus projetos e muito mais!
 
