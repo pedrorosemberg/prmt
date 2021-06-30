@@ -42,6 +42,7 @@ programa
 		cadeia avalie[][]={{"Ruim"}}
 		const inteiro lista=0
 		inteiro atendente,avaliacao
+		cadeia n_avaliacao[][]={{"1","Péssimo"},{"2","Ruim"},{"3","Regular"},{"4","Bom"},{"5","Ótimo"}}
 		atendente=Util.sorteia(1,5)
 			//Define o sexo/gênero do usuário para melhorar o diálogo
 		inteiro masculino=1,feminino=2,neutro=3,outro=3,protocolo
@@ -132,13 +133,18 @@ programa
 				}	}enquanto (setor>5 ou setor<1)
 								u.aguarde(2000)	
 								escreva("\n" + "\n" + atendentes[atendente-1][lista] + " entrou na conversa..." + "\n")
-								escreva ("\n" + atendentes[atendente-1][lista] + "diz: " + "\n" + "\n" + "Olá, " + nome + "!" + " Vi que você solicitou atendimento para o setor " + setores[setor-1][lista] + "." + "\n")
+								escreva ("\n" + atendentes[atendente-1][lista] + " diz: " + "\n" + "\n" + "Olá, " + nome + "!" + " Vi que você solicitou atendimento para o setor " + setores[setor-1][lista] + "." + "\n")
 								escreva("Caso não tenha anotado o seu número de protocolo, é " + protocolo + ". Em que posso ajudar?" + "\n")
 								leia(comentario)
+								escreva("Enviando...")
 									u.aguarde(3000)
-								escreva("Oops!" + "\n" + "Parece que a sua rede caiu..." + "\n" + "\n" + "Iremos te retornar em breve!" + "\n" + "\n" + "\n" + "Chat encerrado")
+								escreva("Oops!" + "\n" + "\n" + "Parece que a sua rede caiu..." + "\n" + "\n" + "Iremos te retornar em breve!" + "\n" + "\n" + "\n" + "Chat encerrado " + "\n" + "\n")
 								escreva("Avalie o nosso atendimento: ")
 								leia(avaliacao)
+
+								//cadeia => n_avaliacao
+								//inteiro -> avaliacao
+								//índices => 1 a 5
 								
 }} 
 /* $$$ Portugol Studio $$$ 
@@ -146,7 +152,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1805; 
+ * @POSICAO-CURSOR = 7652; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
