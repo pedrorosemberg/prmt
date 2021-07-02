@@ -39,7 +39,7 @@ programa
 		cadeia setores[][]={{"comercial"},{"secretaria"},{"marketing"},{"financeiro"},{"ouvidoria"}}
 			//Define as configurações dos atendentes que estão on-line
 		cadeia atendentes[][]={{"Olivia"},{"Fernando"},{"Paulo"},{"Ricardo"},{"Larissa"}}
-		cadeia avalie[][]={{"Ruim"}}
+		cadeia avalie[][]={{"Péssimo"},{"Ruim"},{"Regular"},{"Bom"},{"Excelente"}}
 		const inteiro lista=0
 		inteiro atendente,avaliacao
 		cadeia n_avaliacao[][]={{"1","Péssimo"},{"2","Ruim"},{"3","Regular"},{"4","Bom"},{"5","Ótimo"}}
@@ -139,9 +139,9 @@ programa
 								escreva("Enviando...")
 									u.aguarde(3000)
 								escreva("Oops!" + "\n" + "\n" + "Parece que a sua rede caiu..." + "\n" + "\n" + "Iremos te retornar em breve!" + "\n" + "\n" + "\n" + "Chat encerrado " + "\n" + "\n")
-								escreva("Avalie o nosso atendimento: ")
+								escreva("Avalie o nosso atendimento" + "\n" + "\n" + "Digite: " + "\n" + "1-Péssimo" + "\n" + "2-Ruim" + "\n" + "3-Regular" + "\n" + "4-Bom" + "\n" + "5-Excelente" + "\n" + "\n")
 								leia(avaliacao)
-
+								escreva("Você avaliou o nosso atendimento como: " + avalie[avaliacao-1][0] + "\n" + "\n" + "Agradecemos sua participação!")
 								//cadeia => n_avaliacao
 								//inteiro -> avaliacao
 								//índices => 1 a 5
@@ -152,7 +152,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 7652; 
+ * @POSICAO-CURSOR = 8378; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
