@@ -1,13 +1,20 @@
-# rosemberg.dev
-
-
-Neste espaço, você terá acesso a diversos arquivos OpenSource para criar, basear seus projetos e muito mais!
+# Pedro Rosemberg
 
 
 
-## Suporte e Contato
+### Endereços de trabalho:
+#### CEDIN-Centro de Estudos em Direito e Negócios LTDA-ME
+##### Dep. de Marketing e Comunicação
+###### Rua Alagoas, 772, 4º Andar, Savassi, Belo Horizonte/MG - CEP 30130-160
+###### Website: [cedin.com.br](https://www.cedin.com.br/)
 
-Caso queira entrar em contato comigo, fique à vontade pelos links abaixo:
+#### PRMT-Pedro Rosemberg Marketing e Tecnologia SA
+##### Escritório 1
+###### Rua Turiaçu, 317A, Escritório 1, São Geraldo, Belo Horizonte/MG - CEP 31050-760
+
+
+
+
 
  - LinkedIn: [Pedro Rosemberg](https://www.linkedin.com/in/pedrorosemberg)
  - CNPq Lattes: [Currículo Lattes](http://lattes.cnpq.br/2162940985603250)
