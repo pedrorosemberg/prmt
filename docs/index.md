@@ -2,15 +2,15 @@
 
 
 
-### Endereços de trabalho:
-#### CEDIN-Centro de Estudos em Direito e Negócios LTDA-ME
-##### Dep. de Marketing e Comunicação
-###### Rua Alagoas, 772, 4º Andar, Savassi, Belo Horizonte/MG - CEP 30130-160
-###### Website: [cedin.com.br](https://www.cedin.com.br/)
+## Endereços de trabalho:
 
-#### PRMT-Pedro Rosemberg Marketing e Tecnologia SA
-##### Escritório 1
-###### Rua Turiaçu, 317A, Escritório 1, São Geraldo, Belo Horizonte/MG - CEP 31050-760
+### CEDIN-Centro de Estudos em Direito e Negócios LTDA-ME
+Dep. de Marketing e Comunicação
+Rua Alagoas, 772, 4º Andar, Savassi, Belo Horizonte/MG - CEP 30130-160
+Website: [cedin.com.br](https://www.cedin.com.br/)
+
+### PRMT-Pedro Rosemberg Marketing e Tecnologia SA
+Rua Turiaçu, 317A, Escritório 1, São Geraldo, Belo Horizonte/MG - CEP 31050-760
 
 
 
