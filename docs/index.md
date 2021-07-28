@@ -2,27 +2,28 @@
 ---
 ## Endereços de trabalho:
 
-`CEDIN-Centro de Estudos em Direito e Negócios LTDA-ME`
-Dep. de Marketing e Comunicação
-Rua Alagoas, 772, 4º Andar, Savassi, Belo Horizonte/MG - CEP 30130-160
-Website: [cedin.com.br](https://www.cedin.com.br/)
+`CEDIN-Centro de Estudos em Direito e Negócios LTDA-ME`  
+Dep. de Marketing e Comunicação  
+Rua Alagoas, 772, 4º Andar, Savassi, Belo Horizonte/MG - CEP 30130-160  
+Website: [cedin.com.br](https://www.cedin.com.br/)  
 
-`PRMT-Pedro Rosemberg Marketing e Tecnologia SA`
-Rua Turiaçu, 317A, Escritório 1, São Geraldo, Belo Horizonte/MG - CEP 31050-760
+`PRMT-Pedro Rosemberg Marketing e Tecnologia SA`  
+Rua Turiaçu, 317A, Escritório 1, São Geraldo, Belo Horizonte/MG - CEP 31050-760  
 ---
-## Escolaridade:
+## Escolaridade:  
 
-`Ensino Superior`
- - 2021-2024 | Tecnólogo em Gestão Comercial | Centro Universitário Leonardo da Vinci-UNIASSELVI
- - 2020-2023 | Tecnólogo em Marketing | Centro Universitário Leonardo da Vinci-UNIASSELVI
- - 2019-2025 | Bacharelado em Letras-Tecnologias da Edição | Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)
-`Ensino Técnico-Profissional ou Qualificação`
- - 2017-2018 | 
-`Cursos Livres e Complementares`
- - 2017-2018 | 
-`Idiomas`
- - 2017-2018 | 
+`Ensino Superior`  
+ - 2021-2024 | Tecnólogo em Gestão Comercial | Centro Universitário Leonardo da Vinci-UNIASSELVI  
+ - 2020-2023 | Tecnólogo em Marketing | Centro Universitário Leonardo da Vinci-UNIASSELVI  
+ - 2019-2025 | Bacharelado em Letras-Tecnologias da Edição | Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)  
+`Ensino Técnico-Profissional ou Qualificação`  
+ - 2017-2018 |  
+`Cursos Livres e Complementares`  
+ - 2017-2018 |  
+`Idiomas`   
+ - 2017-2018 |  
 ---
+  
 
 
 
