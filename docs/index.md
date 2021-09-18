@@ -1,4 +1,4 @@
-# PRMT - 36.339.282/0001-01
+# PRMT
 
 Serviços ofertados:
  - Serviços de Marketing e Vendas;
@@ -23,5 +23,5 @@ E-mail: contato.prmt@gmail.com
 
 ---
 ```
-(C) Copyright 1999-2021 - All rights reserved.  Developed by Pedro Rosemberg 36339282000101.
+(C) Copyright 1999-2021 - All rights reserved.  Developed by Pedro Rosemberg Marketing e Tecnologia - _PRMT SERVICES_ 36339282000101.
 ```
